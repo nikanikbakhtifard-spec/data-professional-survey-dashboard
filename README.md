@@ -34,3 +34,5 @@ This project involves an end-to-end data analysis process—from cleaning raw su
 1. Download the .pbix file from this repository.
 2. Open it in Power BI Desktop.
 3. Interact with the filters to see how salary and satisfaction vary by region or role.
+ <img width="1280" height="722" alt="dashboard-preview" src="https://github.com/user-attachments/assets/dca0fc25-9fc2-4f18-bd38-c166c6e2483a" />
+
