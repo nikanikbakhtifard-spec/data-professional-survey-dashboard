@@ -1,6 +1,9 @@
 
 Data Professional Survey Analysis Dashboard
+
 📊 Project Overview
+
+
 This project involves an end-to-end data analysis process—from cleaning raw survey data in Excel to creating an interactive dashboard in Power BI. The goal was to visualize the professional landscape of data roles, focusing on salary trends, programming preferences, and job satisfaction.
 🔍 Key Insights from the Dashboard:
 • Demographics: Analyzed data from 630 survey takers with an average age of 29.87.
